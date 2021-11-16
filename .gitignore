@@ -114,3 +114,5 @@ log/
 log/*.json
 
 file/
+
+database.js
