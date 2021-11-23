@@ -3,7 +3,8 @@
 >인프런 클론 프로젝트: 
 >리팩토링 진행중입니다.
 </br>
-📍[깃허브 링크](https://github.com/Junior-team/inflearn-clone2)
+
+📍 [깃허브 링크](https://github.com/Junior-team/inflearn-clone2)
 </br>
 
 ## 1. 제작 기간 & 참여 인원
