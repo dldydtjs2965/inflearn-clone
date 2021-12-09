@@ -2,9 +2,6 @@
 
 </br>
 
-📍 [깃허브 링크](https://github.com/Junior-team/inflearn-clone2)
-</br>
-
 ## 1. 제작 기간 & 참여 인원
 - 2021년 10월 30일 ~ 11월 12일
 - 팀 프로젝트
