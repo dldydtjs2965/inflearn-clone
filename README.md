@@ -1,5 +1,5 @@
 # inflearn_test_Server_Rio/Nadan
-
+인프런을 가상으로 구현해보는 프로젝트 입니다.
 </br>
 
 ## 1. 제작 기간 & 참여 인원
